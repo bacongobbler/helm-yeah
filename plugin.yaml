@@ -1,0 +1,8 @@
+name: "yeah"
+version: "0.1.0"
+usage: "Just a sassy example plugin for Helm"
+description: |-
+  This is just a sassy example plugin for Helm.
+ignoreFlags: false
+useTunnel: false
+command: "$HELM_PLUGIN_DIR/helm-ya.sh"
