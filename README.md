@@ -14,5 +14,5 @@ Helm eh, bud?
 $ LANG=en_FR helm yeah
 Ouais, Helm!
 $ LANG=en_GB helm yeah
-Scheiße! Helm ja!
+Bloody Helm!
 ```

@@ -7,8 +7,11 @@ en_CA)
 en_FR)
   Message="Ouais, Helm!"
   ;;
-en_GB)
+de_DE)
   Message="Scheiße! Helm ja!"
+  ;;
+en_GB)
+  Message="Bloody Helm!"
   ;;
 *)
   Message="Oh Helm ya!"
